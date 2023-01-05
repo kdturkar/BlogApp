@@ -5,8 +5,7 @@ It is a REST API based backend blogging application in Spring Boot. The objectiv
 
 BlogApp ER Diagram
 ![BlogApp_ER_Diagram](https://user-images.githubusercontent.com/106290237/210787665-b0873b53-070f-4c21-a6d0-4ce945810260.png)
-
-
+----------------------------------------------------------------------------------------------------------------------------------------------
 BlogApp Database Schema
 <img width="513" alt="BlogApp_DB_Schema" src="https://user-images.githubusercontent.com/106290237/210788588-29afd857-c4ec-43fb-afae-96e5bc401a00.png">
 
